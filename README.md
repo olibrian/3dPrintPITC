@@ -1,4 +1,4 @@
-# 3dPrintPITC
+# 3dPrinterPITC
 3D Printer Ressources
 
 Ressources for the <a href="http://www.puzzle.ch">Puzzle ITC</a> 3D printer
